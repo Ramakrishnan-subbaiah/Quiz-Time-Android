@@ -1,7 +1,7 @@
 # Quiz-Time-Android
 A Quiz App for childrens to answer the country name of the flags
 ## App Preview
-![Images](https://github.com/Ramakrishnan-subbaiah/Quiz-Time-Android/blob/master/Images/1.jpg)
-![Images](https://github.com/Ramakrishnan-subbaiah/Quiz-Time-Android/blob/master/Images/2.jpg)
-![Images](https://github.com/Ramakrishnan-subbaiah/Quiz-Time-Android/blob/master/Images/3.jpg)
-![Images](https://github.com/Ramakrishnan-subbaiah/Quiz-Time-Android/blob/master/Images/4.jpg)
+![1](https://user-images.githubusercontent.com/113575392/227690362-160bc1e0-16f7-4bb8-851f-98fd5491cfbd.jpg)
+![2](https://user-images.githubusercontent.com/113575392/227690402-1c6afca4-dcf9-4812-a3ad-cb572a24859d.jpg)
+![3](https://user-images.githubusercontent.com/113575392/227690426-61867ce0-9746-48a5-b847-8d7952ca9d97.jpg)
+![4](https://user-images.githubusercontent.com/113575392/227690432-1917864a-423f-48cf-8386-0c5318bba49a.jpg)
