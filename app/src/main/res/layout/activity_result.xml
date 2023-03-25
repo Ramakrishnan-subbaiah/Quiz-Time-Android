@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".ResultActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/result"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:padding="20dp"/>
+
+    <ImageView
+        android:layout_width="357dp"
+        android:layout_height="314dp"
+        android:contentDescription="@string/trophy_image"
+        android:src="@drawable/ic_trophy" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hey_congratulations"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:padding="10dp"/>
+    <TextView
+        android:id="@+id/userName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Ramki"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="27sp"
+        android:padding="5dp"/>
+    <TextView
+        android:id="@+id/score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="@string/your_score_is_0_out_of_9"
+        android:textColor="@color/teal_200"
+        android:textSize="27sp"
+        android:padding="5dp"/>
+    <Button
+        android:id="@+id/btnFinish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/white"
+        android:text="@string/finish"
+        android:padding="10dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/design_default_color_primary"
+        />
+
+
+
+
+</LinearLayout>

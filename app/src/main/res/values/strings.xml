@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz Time</string>
+    <string name="welcome">Welcome</string>
+    <string name="quiz_time">Quiz Time!</string>
+    <string name="name_label">Please enter your name</string>
+    <string name="name">e.g. Ram</string>
+    <string name="start">START</string>
+    <string name="country_flag">Country Flag</string>
+    <string name="submit">SUBMIT</string>
+    <string name="trophy_image">Trophy Image</string>
+    <string name="result">Result</string>
+    <string name="hey_congratulations">Hey, Congratulations !</string>
+    <string name="your_score_is_0_out_of_9">Your score is 0 out of 9.</string>
+    <string name="finish">FINISH</string>
+</resources>
